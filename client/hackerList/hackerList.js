@@ -1,8 +1,6 @@
-Template.hackerList.helpers(
-	{
-		Hackers: function() {
-			return Hackers;
-		}
+Template.hackerList.helpers({
+	Hackers: function() {
+		return Hackers;
 	}
-);
+});
 
